@@ -47,8 +47,7 @@ console.log(createAction);
               subscriptionId,
             )
           )
-        ),
-        { data: subscriptionData }
+        ),{ data: subscriptionData }
       )
     )
   }
